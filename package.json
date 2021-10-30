@@ -1,5 +1,5 @@
 {
-  "name": "search_music",
+  "name": "music_finder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
