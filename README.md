@@ -18,7 +18,7 @@ The page is made with React Js using Hooks, for the construction of the page the
 
 ## Links of the Apis
 
-| Plugin | README |
+| API | DOCS |
 | ------ | ------ |
 | The Audiodb | [https://www.theaudiodb.com/api/v1/json/1/search.php?s=artist] |
 | Lyrics API | [https://api.lyrics.ovh/v1/${artist}/${music}] |
